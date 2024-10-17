@@ -1,4 +1,4 @@
-# lab-dio-servi-os-nuvem
+# lab-dio-serviços-nuvem
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
 Neste laboratório sobre tipos de serviço de nuvem, percebi a importância de entender a necessidade do cliente, para oferecer um melhor serviço e o melhor custo benefício. 
